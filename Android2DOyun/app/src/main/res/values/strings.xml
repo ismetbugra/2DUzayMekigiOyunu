@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android2DOyun</string>
+    <string name="oyun_kuralları">"Oyun Kuralları:Başlama butonuna tıkladıktan sonra gelen oyun ekranında tıklanınca oyun başlar.Uzaylı ve UFO yakalamak puan sağlar ama göktaşına yakalanmak oyunu sonlandırır.Her uzaylı ve UFO yakalandığında oyun hızlanır.İyi Oyunlar"</string>
+</resources>
